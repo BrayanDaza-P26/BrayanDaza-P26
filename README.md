@@ -1,4 +1,10 @@
-## Hi there 👋
+🎓 Estudante de Engenharia de Software na UNICID.
+
+💻 Aprendendo programação em C, HTML, CSS, algoritmos e banco de dados MySQL.
+
+🚀 Desenvolvendo projetos acadêmicos e buscando minha primeira oportunidade na área de Tecnologia da Informação.
+
+📍 São Paulo, Brasil.
 
 <!--
 **BrayanDaza-P26/BrayanDaza-P26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
